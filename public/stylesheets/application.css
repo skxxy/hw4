@@ -1,0 +1,22 @@
+h1 {
+    color: olive;
+    font-size: 70px;
+    background-color: beige;
+    text-align: center;
+}
+ul a {
+    color: yellowgreen;
+    font-size: 30px;
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+div a {
+    background-color: tan;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    font-size: 20px;
+  }
