@@ -14,9 +14,15 @@ ul {
 }
 div a {
     background-color: tan;
-    padding-top: 50px;
+    padding-top: 5px;
     padding-right: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     padding-left: 60px;
     font-size: 20px;
   }
+  .container {
+    
+  }
+#details {
+    color: blue;
+}
